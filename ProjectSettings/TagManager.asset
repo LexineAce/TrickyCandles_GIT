@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Timer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2696354921
+    locked: 0
+  - name: Particle
+    uniqueID: 2981212887
+    locked: 0
+  - name: Candles
+    uniqueID: 2726342867
+    locked: 0
+  - name: PickupUps
+    uniqueID: 4153956195
+    locked: 0
+  - name: Player
+    uniqueID: 367033261
+    locked: 0
+  - name: Text
+    uniqueID: 3296504933
+    locked: 0
